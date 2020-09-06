@@ -9,12 +9,12 @@
 - ⚡ Fun fact: I love to code and play soccer.
 
 ### Mp3 Playing 🎧
-[<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftinhte.vn%2Fthread%2Fanh-em-co-con-tai-duoc-ung-dung-mp3-zing-tren-ios-khong.2864030%2F&psig=AOvVaw0xJ1pYU6W0gUdl5GmQEHBd&ust=1599491907486000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCOCG3Ovp1OsCFQAAAAAdAAAAABAD" alt="Asta Spotify Playing" width="350" />](https://zingmp3.vn/video-clip/Que-Huong-Viet-Nam-Anh-Khang-Suboi/ZWZ9DE6F.html)
+[<img src="https://static-zmp3.zadn.vn/skins/common/logo600.png" alt="Asta Spotify Playing" width="350" />](https://zingmp3.vn/video-clip/Que-Huong-Viet-Nam-Anh-Khang-Suboi/ZWZ9DE6F.html)
 
 ### Connect with me:
 
-[<img align="left" alt="facebook.com" width="22px" src="https://scontent-sin6-2.xx.fbcdn.net/v/t1.0-9/65819754_152239685945057_2051889663244763136_o.jpg?_nc_cat=110&_nc_sid=09cbfe&_nc_ohc=BcAFdDahWbIAX92RxOJ&_nc_ht=scontent-sin6-2.xx&oh=0f2496262f2194daa760a87c7d320977&oe=5F7C6851" />][website]
-[<img align="left" alt="asta | LinkedIn" width="22px" src="https://scontent-sin6-2.xx.fbcdn.net/v/t1.0-9/65819754_152239685945057_2051889663244763136_o.jpg?_nc_cat=110&_nc_sid=09cbfe&_nc_ohc=BcAFdDahWbIAX92RxOJ&_nc_ht=scontent-sin6-2.xx&oh=0f2496262f2194daa760a87c7d320977&oe=5F7C6851" />][linkedin]
+[<img align="left" alt="facebook.com" width="22px" src="https://www.facebook.com/images/fb_icon_325x325.png" />][website]
+[<img align="left" alt="asta | LinkedIn" width="22px" src="https://sotaydoanhtri.com/wp-content/uploads/2019/11/Linked-Helper.png" />][linkedin]
 
 <br />
 
