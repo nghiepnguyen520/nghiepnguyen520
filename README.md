@@ -37,7 +37,6 @@
 [<img align="left" alt="Nextjs" width="26px" src="https://huudoanh.com/content/images/2019/10/nextjs-banner-1.png" />][Nextjs]
 [<img align="left" alt="Nestjs" width="26px" src="https://d33wubrfki0l68.cloudfront.net/e937e774cbbe23635999615ad5d7732decad182a/26072/logo-small.ede75a6b.svg" />][Nextjs]
 [<img align="left" alt="Flutter" width="26px" src="https://cdn-images-1.medium.com/max/1200/1*5-aoK8IBmXve5whBQM90GA.png" />][Flutter]
-
 [<img align="left" alt="Ubuntu" width="26px" src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/256/distributor-logo-ubuntu-icon.png" />][UBUNTU]
 <br />
 <br />
@@ -88,3 +87,6 @@
 [REACT]: https://reactjs.org
 [NODE]: https://nodejs.org/en/
 [UBUNTU]: https://ubuntu.com
+[GIT]: https://github.com/nghiepnguyen520
+[GITHUB]: https://github.com/nghiepnguyen520
+[TERMINAL]: https://github.com/nghiepnguyen520
