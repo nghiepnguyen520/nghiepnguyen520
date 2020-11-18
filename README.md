@@ -3,6 +3,7 @@
 ## I'm a Developer Full Stack Web And I Like Develop Mobile Cross Platform
 
 - 💻 I’m worked Full Stack Web at a [Digitech Solution][website]!
+- 💻 Now, I am working Full Stack Web at a [NUS Technology][website]!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m want to learn experience form orther developer.
 - 🥅 2020 Goals: Become a developer better 2019. Learn  more technical to build products and improve my English skill.
@@ -48,9 +49,9 @@
 <!-- YOUTUBE:START -->
 - [I like and learning code (2020)](https://www.youtube.com/watch?v=DPnJldwv22o)
 - [The channels I can learn and motivition for code js](https://www.youtube.com/channel/UC29ju8bIPH5as8OGnQzwJyA)
-- [The channels learn more toole or how to code better](https://www.youtube.com/c/CleverProgrammer/playlists)
+- [The channels learn more tool or how to code better](https://www.youtube.com/c/CleverProgrammer/playlists)
 - [This is channel of my idol](https://www.youtube.com/c/JomaOppa/playlists)
-- [I learn reactjs in this](https://www.youtube.com/c/EasyFrontend/playlists)
+- [I learn reactjs here](https://www.youtube.com/c/EasyFrontend/playlists)
 <!-- YOUTUBE:END -->
 
 ---
