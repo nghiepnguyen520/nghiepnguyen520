@@ -2,7 +2,7 @@
 
 ## I'm a Developer Full Stack Web And I Like Develop Mobile Cross Platform
 
-- 💻 I’m worked Full Stack Web at a [Digitech Solution][website]!
+- 💻 I was worked Full Stack Web at a [Digitech Solution][website]!
 - 💻 Now, I am working Full Stack Web at a [NUS Technology][website]!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m want to learn experience form orther developer.
